@@ -1,7 +1,7 @@
 
 
 👋 Hi, I’m @YASHOVARDHAN1207  
-- 🌱 Currently learning DSA, Web3, and DevOps  
+- 🌱 Currently learning DSA & Web3
 - 💻 Passionate about C++ development and problem-solving  
 - 💞️ Looking to collaborate on projects based on C++ and emerging technologies  
 - 🚀 Excited about building scalable and innovative solutions  
